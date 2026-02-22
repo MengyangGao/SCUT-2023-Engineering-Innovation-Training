@@ -1,6 +1,6 @@
-本开源项目包含华工国际21级机器人工程专业**灵活奋斗-死在华工组**于2021级本科生**工程训练分散项目多功能机器人（金工实习）** 过程中创造的相关资料。
+本开源项目包含华工机器人工程专业 灵活奋斗组 于2023年 本科生工程训练分散项目 多功能机器人（金工实习）的资料开源。
 
-我们于2023年5月30号比赛后自愿将本组在本课程项目中创造的所有文件（机械结构、电路设计、控制代码和宣传海报等文件）开源分享出来，供同届同学们交流探讨分享经验，也为以后的学弟学妹提供一份参考，欢迎同学们和全社会指正。
+我们于2023年5月30号比赛后将本组在本课程项目中创造的所有文件（机械结构、电路设计、控制代码和宣传海报等文件）开源分享出来，供同届同学们交流探讨分享经验，也为以后的学弟学妹提供一份参考。
 
 
 
@@ -50,13 +50,14 @@
 
 mechanics,electrics and propaganda 按照 CC 4.0 BY-NC 协议发放。<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-software 按照 [GPL](https://github.com/ksDreamer/-SCUT-2023-Engineering-Innovation-Training/blob/main/LICENSE) 协议发放
+software 按照 [GPL](https://github.com/MengyangGao/SCUT-2023-Engineering-Innovation-Training/blob/main/LICENSE) 协议发放
 
 # 成员
 
-灵活奋斗-死在华工组：
+灵活奋斗组：
 
 费菁皓、武宇航、高梦扬、温欣怡
 
 2023年6月2日
+
 
