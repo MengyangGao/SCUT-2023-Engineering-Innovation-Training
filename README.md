@@ -44,7 +44,7 @@
 
 鼓励提 Issue 或者 PR。
 
-亦可发邮件到 mengyanggao.public@outlook.com
+亦可发邮件到 gao.mengyang@outlook.com
 
 # 开源协议
 
@@ -59,5 +59,6 @@ software 按照 [GPL](https://github.com/MengyangGao/SCUT-2023-Engineering-Innov
 费菁皓、武宇航、高梦扬、温欣怡
 
 2023年6月2日
+
 
 
